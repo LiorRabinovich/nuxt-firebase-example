@@ -4,9 +4,9 @@ universal nuxt project distributed to firebase hosting and firebase functions
 
 ## Pre requirements
 
--Install [firebase tools] [firebase-tools].
+- Install [firebase tools] [firebase-tools].
   > npm i -g firebase-tools
--Create a firebase project in [Firebase Console] [[firebase-console]] and write the project id under the project item of `.firebaserc`.
+- Create a firebase project in [Firebase Console] [[firebase-console]] and write the project id under the project item of `.firebaserc`.
 
 ```json
     {
@@ -16,8 +16,9 @@ universal nuxt project distributed to firebase hosting and firebase functions
     }
 ```
 
--Log in to firebase from the console.
-  > firebase login
+- Log in to firebase from the console.
+
+> firebase login
 
 ## Development
 
